@@ -28,7 +28,7 @@ Perfect for:
 
 ## 📸 Screenshots
 
-https://github.com/kaleemullahkhan786/MT5-Trade-Panel-Expert-Advisor/raw/main/TradePanel.jpg
+https://raw.githubusercontent.com/kaleemullahkhan786/MT5-Trade-Panel-Expert-Advisor/main/TradePanel.jpg
 
 ---
 
