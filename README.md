@@ -181,7 +181,7 @@ Use risk-based lot calculation to maintain consistent risk per trade regardless 
 
 ## 📸 Screenshots
 
-TradePanel.png
+https://github.com/kaleemullahkhan786/MT5-Trade-Panel-Expert-Advisor/blob/main/TradePanel.jpg
 
 ---
 
