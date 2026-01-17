@@ -26,6 +26,12 @@ Perfect for:
 
 ---
 
+## 📸 Screenshots
+
+https://github.com/kaleemullahkhan786/MT5-Trade-Panel-Expert-Advisor/raw/main/TradePanel.jpg
+
+---
+
 ## ✨ Features
 
 ### 🎮 **Interactive Trading Panel**
@@ -176,12 +182,6 @@ Use risk-based lot calculation to maintain consistent risk per trade regardless 
 | **Auto-Add Logic** | Automate position scaling without constant monitoring |
 | **Prop Firm Ready** | Meets strict requirements for professional trading firms |
 | **Error Handling** | Graceful handling of edge cases and broker restrictions |
-
----
-
-## 📸 Screenshots
-
-https://github.com/kaleemullahkhan786/MT5-Trade-Panel-Expert-Advisor/blob/main/TradePanel.jpg
 
 ---
 
